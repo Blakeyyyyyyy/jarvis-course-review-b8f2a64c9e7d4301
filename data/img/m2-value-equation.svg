@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" font-family="'Instrument Sans', Arial, sans-serif">
+  <rect width="1200" height="460" fill="#ffffff"/>
+  <text x="60" y="54" font-family="'Fraunces', Georgia, serif" font-size="26" font-weight="600" fill="#0e1016">What makes an offer strong</text>
+  <text x="60" y="84" font-size="18" fill="#5a5d6b">Bigger on top, smaller underneath.</text>
+  <text x="120" y="250" font-family="'Fraunces', Georgia, serif" font-size="34" font-weight="600" fill="#0e1016">Strength</text>
+  <text x="300" y="250" font-size="34" fill="#8b8e9c">=</text>
+  <g>
+    <rect x="380" y="130" width="330" height="90" rx="10" fill="#efecfb" stroke="#4b2fc4" stroke-width="1.5"/>
+    <text x="545" y="166" font-size="18" font-weight="600" fill="#0e1016" text-anchor="middle">The outcome they dream about</text>
+    <text x="545" y="196" font-size="15.5" fill="#5a5d6b" text-anchor="middle">$100K a month, not "more leads"</text>
+    <text x="740" y="185" font-size="30" fill="#8b8e9c" text-anchor="middle">×</text>
+    <rect x="770" y="130" width="330" height="90" rx="10" fill="#efecfb" stroke="#4b2fc4" stroke-width="1.5"/>
+    <text x="935" y="166" font-size="18" font-weight="600" fill="#0e1016" text-anchor="middle">How sure they are you can do it</text>
+    <text x="935" y="196" font-size="15.5" fill="#5a5d6b" text-anchor="middle">150 businesses, a named method, a demo</text>
+  </g>
+  <line x1="370" y1="248" x2="1110" y2="248" stroke="#0e1016" stroke-width="3"/>
+  <g>
+    <rect x="380" y="276" width="330" height="90" rx="10" fill="#f8f1df" stroke="#8a6210" stroke-width="1.5"/>
+    <text x="545" y="312" font-size="18" font-weight="600" fill="#0e1016" text-anchor="middle">How long it takes</text>
+    <text x="545" y="342" font-size="15.5" fill="#5a5d6b" text-anchor="middle">30, 60, 90 days, not "eventually"</text>
+    <text x="740" y="331" font-size="30" fill="#8b8e9c" text-anchor="middle">×</text>
+    <rect x="770" y="276" width="330" height="90" rx="10" fill="#f8f1df" stroke="#8a6210" stroke-width="1.5"/>
+    <text x="935" y="312" font-size="18" font-weight="600" fill="#0e1016" text-anchor="middle">Effort and risk for them</text>
+    <text x="935" y="342" font-size="15.5" fill="#5a5d6b" text-anchor="middle">Money back, or free until it works</text>
+  </g>
+  <text x="740" y="110" font-family="'IBM Plex Mono', Menlo, monospace" font-size="14" letter-spacing="2" fill="#4b2fc4" text-anchor="middle">PUSH THESE UP</text>
+  <text x="740" y="410" font-family="'IBM Plex Mono', Menlo, monospace" font-size="14" letter-spacing="2" fill="#8a6210" text-anchor="middle">PUSH THESE DOWN</text>
+</svg>
