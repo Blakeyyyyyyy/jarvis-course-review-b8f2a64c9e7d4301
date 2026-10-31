@@ -12,7 +12,7 @@
   <!-- agent -->
   <rect x="390" y="110" width="250" height="150" rx="10" fill="#efecfb" stroke="#4b2fc4" stroke-width="1.5"/>
   <text x="410" y="138" font-family="'IBM Plex Mono', Menlo, monospace" font-size="13" letter-spacing="2" fill="#4b2fc4">JARVIS</text>
-  <text x="410" y="170" font-size="22" font-weight="600" fill="#0e1016">Scoping agent</text>
+  <text x="410" y="170" font-size="22" font-weight="600" fill="#0e1016">Scoping skill</text>
   <text x="410" y="198" font-size="18" fill="#5a5d6b">Writes the full build plan</text>
   <text x="410" y="224" font-size="18" fill="#5a5d6b">and the unknowns list</text>
   <!-- plan -->
